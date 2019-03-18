@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: ieeetr.bst
+Database file #1: bib.bib
+Warning--empty journal in Lim2017
+Warning--empty journal in Escalera1997
+Warning--empty journal in Iino2014
+Warning--empty journal in YannLeCun1998
+You've used 7 entries,
+            1876 wiz_defined-function locations,
+            522 strings with 4797 characters,
+and the built_in function-call counts, 1932 in all, are:
+= -- 173
+> -- 101
+< -- 0
++ -- 36
+- -- 29
+* -- 152
+:= -- 291
+add.period$ -- 7
+call.type$ -- 7
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 94
+empty$ -- 174
+format.name$ -- 29
+if$ -- 451
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 24
+num.names$ -- 7
+pop$ -- 30
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 54
+stack$ -- 0
+substring$ -- 115
+swap$ -- 31
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 19
+width$ -- 8
+write$ -- 63
+(There were 4 warnings)

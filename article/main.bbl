@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{Stallkamp2012}
+J.~Stallkamp, M.~Schlipsing, J.~Salmen, and C.~Igel, ``{Man vs. computer:
+  Benchmarking machine learning algorithms for traffic sign recognition},''
+  {\em Neural Networks}, vol.~32, pp.~323--332, 2012.
+
+\bibitem{Lim2017}
+K.~Lim, Y.~Hong, Y.~Choi, and H.~Byun, ``{Real-time traffic sign recognition
+  based on a general purpose GPU and deep-learning},'' pp.~1--22, 2017.
+
+\bibitem{Ciresan2012}
+D.~Cireşan, U.~Meier, J.~Masci, and J.~Schmidhuber, ``{Multi-column deep
+  neural network for traffic sign classification},'' {\em Neural Networks},
+  vol.~32, pp.~333--338, 2012.
+
+\bibitem{Escalera1997}
+A.~D. Escalera, L.~E. Moreno, and M.~A. Salichs, ``{Road Traffic Sign Detection
+  and Classification},'' vol.~44, no.~6, pp.~848--859, 1997.
+
+\bibitem{Houben-IJCNN-2013}
+S.~Houben, J.~Stallkamp, J.~Salmen, M.~Schlipsing, and C.~Igel, ``{Detection of
+  Traffic Signs in Real-World Images: The {\{}G{\}}erman {\{}T{\}}raffic
+  {\{}S{\}}ign {\{}D{\}}etection {\{}B{\}}enchmark},'' in {\em International
+  Joint Conference on Neural Networks}, no.~1288 in 1, 2013.
+
+\bibitem{Iino2014}
+N.~Iino, W.~Takamatsu, A.~Iino, Y.~Iizuka, and S.~Okino, ``{Going Deeper with
+  Convolutions},'' 2014.
+
+\bibitem{YannLeCun1998}
+Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner, ``{Gradient-Based Learning
+  Applied to Document Recognition},'' 1998.
+
+\end{thebibliography}
